@@ -1,7 +1,7 @@
 # Riyadh Blog
 
 ## Problem Statement
-
+ 
 Web developers are often asked to work from a mockup of a potential webpage,
 generally referred to as either a `mockup` or `comp`. In this lab, you'll be
 asked to use a mockup image, source text and images, and create an HTML
